@@ -20,4 +20,5 @@ Có lẽ cách tốt nhất để xem v4 khác với các version khác thế n�
 
 Đây là v3 nhé:
 
-![_config.yml]({{ site.baseurl }}/images/v3.PNG)
+| show what has changed in the last commit for a given file               |
+|-------------------------------------------------------------------------|
