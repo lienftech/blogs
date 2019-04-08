@@ -20,4 +20,4 @@ Có lẽ cách tốt nhất để xem v4 khác với các version khác thế n�
 
 Đây là v3 nhé:
 
-![_config.yml]({{ site.baseurl }}/images/v3.png)
+![_config.yml]({{ site.baseurl }}/images/v3.PNG)
