@@ -9,7 +9,7 @@ name: Đinh Trọng Liên
 description: Web Developer from Neotiq
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://scontent.fhan3-2.fna.fbcdn.net/v/t1.0-9/55932452_1023599464501833_1871813547223154688_n.jpg?_nc_cat=107&_nc_oc=AQnLESyDTyXg6S0eaNxl8wQy-eAagriFQDVzPmEl0S8tE4Af5JETvR-zRR_fkdtn4V8&_nc_ht=scontent.fhan3-2.fna&oh=4aaa0adbd344f379bab0856de4c84eb5&oe=5D4F4404
 
 #
 # Flags below are optional
@@ -19,7 +19,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email:
-  facebook: https://www.facebook.com/dinhtronglien
+  facebook: dinhtronglien
   flickr:
   github: lienftech/blogs
   instagram:
